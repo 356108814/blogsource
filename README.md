@@ -1,2 +1,2 @@
 # blogsource
-博客源码
+hexo+Next博客源码

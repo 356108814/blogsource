@@ -22,7 +22,7 @@ tags:
 ## 常见问题
 1. 安装时无64位可选择。原因为PC未虚拟化
 发现版本那里只有32bit，没有64bit的选项，原因是因为PC机还没有开启虚拟化开关，此时需要重启PC机，点击F1进入BIOS开启虚拟化设置。
-![BIOS虚拟化](./bios.png)
+{% asset_img bios.jpg %}
 2. 安装过程中，如提示：没有找到可用磁盘
 下图中不要选是，选否即可
-![选择是否覆盖](./nofound.jpg)
+{% asset_img nofound.jpg %}

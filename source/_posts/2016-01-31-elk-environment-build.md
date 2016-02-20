@@ -1,4 +1,4 @@
-title: ELK stach环境搭建
+title: ELK stash环境搭建
 date: 2016-01-31 17:28:46
 categories: ELK
 tags:

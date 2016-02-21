@@ -19,7 +19,7 @@ Tengine是在Nginx基础上开发的开源的高性能Web服务器。官网为�
 
 ##### 启动
 	nginx -c /usr/local/tengine-2.1.2/conf/nginx.conf
-nginx -h #查看帮助
+nginx -h #查看帮助 
 Options:
   -?,-h         : this help
   -v            : show version and exit

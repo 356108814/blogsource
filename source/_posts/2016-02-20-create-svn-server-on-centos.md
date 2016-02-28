@@ -1,8 +1,8 @@
 title: centos上搭建svn服务器
 date: 2016-02-20 10:56:37
-categories: svn/git
+categories: 工具
 tags:
- svn
+  - svn
 ---
 目前软件工程中项目版本管理最常用的就是svn和git，现将带领你如何在centos一步步搭建svn服务器。
 

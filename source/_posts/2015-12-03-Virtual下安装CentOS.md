@@ -1,6 +1,6 @@
 title: Windows下在Virtual Box中安装CentOS
 date: 2015-12-03 10:23:36
-categories: Linux
+categories: 操作系统
 tags: 
 - virtual 
 - centos

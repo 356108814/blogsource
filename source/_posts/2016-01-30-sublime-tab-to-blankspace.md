@@ -2,6 +2,7 @@ title: sublime文件tab自动转空格
 date: 2016-01-30 22:11:22
 categories: 工具
 tags:
+  - sublime
 ---
 
 由于用Python开发项目时，开发人员的环境不同，造成了文件中存在tab和空格混用，从而导致解析失败。因此使用sublime，使保存时统一格式为空格。

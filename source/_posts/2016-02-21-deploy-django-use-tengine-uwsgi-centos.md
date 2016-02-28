@@ -1,5 +1,5 @@
 title: 使用Tengine+uwsgi部署Django项目
-categories: Linux
+categories: 编程语言
 tags:
   - Tengine
   - uwsgi

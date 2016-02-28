@@ -1,8 +1,8 @@
 title: ELK stash环境搭建
 date: 2016-01-31 17:28:46
-categories: ELK
+categories: 数据分析
 tags:
- elk
+  - ELK
 ---
 ELK是Elasticsearch、logstash、Kibana的英文简称。是一套实时日志分析展示的开源框架集。其中Logstash负责日志的收集、处理，Elasticsearch是基于Lucene的搜索引擎，提供搜索功能，Kibana负责可视化的实时数据。
 官网为：[https://www.elastic.co/](https://www.elastic.co/ "https://www.elastic.co/")

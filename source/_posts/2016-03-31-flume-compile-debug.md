@@ -1,5 +1,5 @@
 title: Flume编译调试
-categories: 大数据
+categories: 技术
 tags:
   - flume
 
@@ -21,6 +21,9 @@ Maven方式导入IntelliJ IDEA，Maven设置为自动导入
 
 注：由于国内网络环境原因，有可能自动下载依赖jar时，有的下载失败了，导致编译时各种乱七八糟的错误。因此，需要增加一个maven仓库地址，这里推荐一个：
 http://maven.oschina.net/service/local/repositories/sonatype-public-grid/content/
+
+<!-- more -->
+
 #### Debug调试
 Flume运行的主类为flume-ng-node下的Application.java。因此调试可以从这里开始。Flume调试需要日志配置和flume配置，因此需要增加2个文件。
 ##### flume.conf

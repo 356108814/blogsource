@@ -1,5 +1,5 @@
 title: Ajax上传文件
-categories: 前端
+categories: 技术
 tags:
   - ajax
 date: 2016-02-29 20:34:42
@@ -10,6 +10,8 @@ date: 2016-02-29 20:34:42
 new FormData (optional HTMLFormElement form)
 参数：form
 (可选) 一个HTML表单元素,可以包含任何形式的表单控件,包括文件输入框.
+
+<!-- more -->
 
 #### 示例
     <form id="save-form">

@@ -1,9 +1,10 @@
 title: {{ title }}
 date: {{ date }}
-categories: c
+categories: 技术
 tags: 
 - 1 
-- 2
 ---
 #### 标题
 ##### 子标题
+
+<!-- more -->

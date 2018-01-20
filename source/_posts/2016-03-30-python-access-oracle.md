@@ -1,7 +1,7 @@
 title: Python访问Oracle操作
-categories: python
+categories: 技术
 tags:
-  - oracle
+  - python
 date: 2016-03-30 22:20:48
 ---
 #### 安装
@@ -12,6 +12,8 @@ python操作Oracle数据库使用的是cx_Oracle，而cx_Oracle需要使用Oracl
 	pip install cx_Oracle
 ##### 安装Oracle Instant Client
 官网：http://www.oracle.com/technetwork/database/features/instant-client/index.html
+
+<!-- more -->
 
 **注意：下载时需要下载对应平台，对应Oracle版本的安装包，如我的机子为centos 64位，Oracle版本为12.1.0.2.0，则需要下载的版本为：
 oracle-instantclient12.1-basic-12.1.0.2.0-1.x86_64.rpm **

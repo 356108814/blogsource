@@ -1,5 +1,5 @@
 title: 使用Tengine+uwsgi部署Django项目
-categories: 编程语言
+categories: 技术
 tags:
   - Tengine
   - uwsgi
@@ -16,6 +16,8 @@ Tengine是在Nginx基础上开发的开源的高性能Web服务器。官网为�
 	make
 	sudo make install
 	ln -s ./sbin/nginx /usr/local/sbin/ 
+
+<!-- more -->
 
 ##### 启动
 	nginx -c /usr/local/tengine-2.1.2/conf/nginx.conf

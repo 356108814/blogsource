@@ -1,5 +1,5 @@
 title: 离线安装CDH
-categories: 大数据
+categories: 技术
 tags:
   - CDH
 date: 2016-11-17 22:21:17
@@ -13,6 +13,8 @@ java:jdk1.7
 机器列表	
 master：172.16.2.190		
 slaves：172.16.2.191~172.16.2.194	
+
+<!-- more -->
 
 #### 配置
 注：所有操作都在root下	

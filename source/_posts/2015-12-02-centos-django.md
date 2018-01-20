@@ -1,6 +1,6 @@
 title: centos下搭建Django开发环境
 date: 2015-12-02 22:28:36
-categories: 编程语言
+categories: 技术
 tags:
   - Django
 ---
